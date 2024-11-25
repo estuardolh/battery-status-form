@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "battery-status-form", "battery-status-form.csproj", "{182324B8-1441-4A48-A7B7-4B48600CA897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182324B8-1441-4A48-A7B7-4B48600CA897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182324B8-1441-4A48-A7B7-4B48600CA897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182324B8-1441-4A48-A7B7-4B48600CA897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182324B8-1441-4A48-A7B7-4B48600CA897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C42BD864-6AF0-41A6-88C1-E9689A9F7386}
+	EndGlobalSection
+EndGlobal

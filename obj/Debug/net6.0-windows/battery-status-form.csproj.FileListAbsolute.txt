@@ -1,0 +1,17 @@
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\bin\Debug\net6.0-windows\battery-status-form.exe
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\bin\Debug\net6.0-windows\battery-status-form.deps.json
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\bin\Debug\net6.0-windows\battery-status-form.runtimeconfig.json
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\bin\Debug\net6.0-windows\battery-status-form.dll
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\bin\Debug\net6.0-windows\battery-status-form.pdb
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\obj\Debug\net6.0-windows\battery-status-form.csproj.AssemblyReference.cache
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\obj\Debug\net6.0-windows\battery_status_form.Form1.resources
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\obj\Debug\net6.0-windows\battery-status-form.csproj.GenerateResource.cache
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\obj\Debug\net6.0-windows\battery-status-form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\obj\Debug\net6.0-windows\battery-status-form.AssemblyInfoInputs.cache
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\obj\Debug\net6.0-windows\battery-status-form.AssemblyInfo.cs
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\obj\Debug\net6.0-windows\battery-status-form.csproj.CoreCompileInputs.cache
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\obj\Debug\net6.0-windows\battery-status-form.dll
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\obj\Debug\net6.0-windows\refint\battery-status-form.dll
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\obj\Debug\net6.0-windows\battery-status-form.pdb
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\obj\Debug\net6.0-windows\battery-status-form.genruntimeconfig.cache
+C:\Users\josee\outthebox\c-sharp-battery-status\battery-status-form\obj\Debug\net6.0-windows\ref\battery-status-form.dll
